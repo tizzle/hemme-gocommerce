@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Great coffee with a dings
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/cmm_logo.jpg
 blurb:
